@@ -12,7 +12,7 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Contributors**: [---Name 1---](---GitHub link 1---) & [---Name 1---](---GitHub link 1---)  
 
 
-### Perception vs. Imagery: An Eexploratory Analysis with NSD-Imagery Data
+### Perception vs. Imagery: An Exploratory Analysis with NSD-Imagery Data
 **Description**: Using RSA and brain encoding model to study the differences in brain responses during perception and imagery.  \
 **Project url**: https://github.com/mynanshan/NHprojectNSDimagery \
 **Contributors**: [Muye Nanshan](https://github.com/mynanshan)
