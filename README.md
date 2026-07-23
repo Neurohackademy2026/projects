@@ -41,5 +41,5 @@ We aim for a fully functioning pipeline that can be further extended in future w
 
 **Project URL**: [NeuroQA](https://github.com/henrfo/VisualQA)
 
-**Contributors**: [Tien Yang](https://github.com/tti-yang) & [Morgan Barnes](---GitHub link 2---) & [Chenye Bao](https://github.com/Psycheyi) & [Henrik Formoe](https://github.com/henrfo) & [Tamaya Levy](---GitHub link 2---)
+**Contributors**: [Tien Yang](https://github.com/tti-yang) & [Morgan Barnes](https://github.com/morganbarnesga) & [Chenye Bao](https://github.com/Psycheyi) & [Henrik Formoe](https://github.com/henrfo) & [Tamaya Levy](https://github.com/tamayalevy)
 
