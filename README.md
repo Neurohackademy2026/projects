@@ -12,7 +12,7 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Project url**: ---Your URL here ---\
 **Contributors**: [---Name 1---](---GitHub link 1---) & [---Name 1---](---GitHub link 1---)
 
-### ---Self-supervised deep learning for Structure-to-Function Prediction in Visual Cortex---
+### Self-supervised deep learning for Structure-to-Function Prediction in Visual Cortex
 **Description**: Deep learning models for the construction of retinotopic maps from structural data have achieved promising results, but they still struggle at capturing fine-grained individual differences and generalising across datasets.
 We hypothesise that these struggles can partially be attributed to the limited number of samples available to train these models in fully supervised models.
 Self-supervised learning, where the model is first trained to learn a general representation of the phenomenon of interest on unlabelled data that can later be fine-tuned for the task of interest, can alleviate this problem, as large, heterogeneous collections of unlabelled structural data are now available
