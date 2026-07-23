@@ -20,5 +20,7 @@ This project therefore aims at exploring the feasibility of this approach for re
 1) Defining a transformer model that can be trained in a self-supervised manner on the HCP structural data.
 2) Fine-tune the resulting model to predict retinotopy maps from structural data.
 We aim for a fully functioning pipeline that can be further extended in future works.\
+
 **Project url**: https://github.com/Junebeomstics/surface-vision-transformers \
+
 **Contributors**: [Junbeom Kwon](https://github.com/Junebeomstics) & [Federico Giacardi](https://github.com/federicogiacardi01)  
