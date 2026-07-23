@@ -8,9 +8,9 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 
 ### ---Project title---
 
-Description: ---Your description here ---\
-Project url: ---Your URL here ---\
-Contributors: [---Name 1---](---GitHub link 1---) & [---Name 1---](---GitHub link 1---)
+**Description**: ---Your description here ---\
+**Project url**: ---Your URL here ---\
+**Contributors**: [---Name 1---](---GitHub link 1---) & [---Name 1---](---GitHub link 1---)
 
 ### ---Self-supervised deep learning for Structure-to-Function Prediction in Visual Cortex---
 **Description**: Deep learning models for the construction of retinotopic maps from structural data have achieved promising results, but they still struggle at capturing fine-grained individual differences and generalising across datasets.
