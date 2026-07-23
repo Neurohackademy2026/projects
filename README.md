@@ -6,7 +6,7 @@
 INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DASHES ("---") WITH YOUR PROJECT INFORMATION 
 -->
 
----Project title---
+### ---Project title---
 
 Description: ---Your description here ---\
 Project url: ---Your URL here ---\
