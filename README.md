@@ -49,6 +49,6 @@ We aim for a fully functioning pipeline that can be further extended in future w
 **Contributors**: [Amisha Vyas](https://github.com/amishavyas), [Mia Casburn](https://github.com/miacasburn), [Hyesun Choi](https://github.com/hyesunchoi1101), [Anna Isberg](https://github.com/aeisberg), [Alex Litovchenko](https://github.com/alitovchenko), [Kaitlyn Mundy](https://github.com/mundy-k), [Rajikha Raja](https://github.com/rajikha), [Lara Ressin](https://github.com/LaraRessin), & [America Romero](https://github.com/romeroamerica)
 
 ### Whole-Brain Dynamical Modeling of Attractor Landscapes in Functional Brain Activity
-**Description**: Use psilocybin dataset to estimate brain state dynamics using HMMs, as well as attractor landscapes and key features to distinguish altered from normal states
-**Project url**: [FunctionalAttractors](https://github.com/danielcbzn/neurohackademy_group-project)
+**Description**: Use psilocybin dataset to estimate brain state dynamics using HMMs, as well as attractor landscapes and key features to distinguish altered from normal states \
+**Project url**: [FunctionalAttractors](https://github.com/danielcbzn/neurohackademy_group-project) \
 **Contributors**: [Monica Vogel](https://github.com/monicajvogel), [Daniel Bazan](https://github.com/danielcbzn), [Yicheng Zheng](https://github.com/zheng1ch), [Donisha Smith] & [Yudi]
