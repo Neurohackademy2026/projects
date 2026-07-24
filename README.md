@@ -56,6 +56,11 @@ We aim for a fully functioning pipeline that can be further extended in future w
 **Project url**: [FunctionalAttractors](https://github.com/danielcbzn/neurohackademy_group-project) \
 **Contributors**: [Monica Vogel](https://github.com/monicajvogel), [Daniel Bazan](https://github.com/danielcbzn), [Yicheng Zheng](https://github.com/zheng1ch), [Donisha Smith](https://github.com/donishadsmith) & [Udbhav Singhal](https://github.com/udusp)
 
+### Hyperface: Modelling the Dynamic Localizer Task
+**Description**: Analyze fMRI data from 21 participants, beginning with a first-level general linear model, followed by whole-brain and ROI-specific representational similarity analysis approaches, to compare neural representations of different stimuli types.
+**Project url**: https://github.com/LuciZR/Hyperface-Dynamic-Task-Localizer
+**Contributors**: [Lucia Z-Rivera](https://github.com/LuciZR), [Jillian O'Malley](https://github.com/jomalle), [Bailey Harris](), [Natalia Pallis-Hassani](), [Heather Laurel Jensen](https://github.com/heatherlaureljensen), & [Emily Fitzgerald]()
+
 ### Structural and Functional Connectivity of Face Recognition Pathways
 **Description**: Most insights from white matter connectivity needed for face perception come from brain lesioned patients. Yet, there is an opportunity to reproduce the same insights by using big data coming from healthy adults. The Human Connectome Project (HCP) data allows us to do just that, by correlating face memory performance with statistics from reconstructed tracts. This project aimed at correlating face memory performance of HCP participants with their structural and functional connectomes. Structural connectivity was estimated from the stream line counts between ROIs, and also from the track profiles. Functional connectivity was estimated from two types of tasks: resting state (rs), and blocks where faces were shown to participants (task). \
 **Project url**: [Structural and Functional Connectivity of Face Recognition Pathways](https://github.com/emiliazms19/Neurohack_project_HCP)\
