@@ -2,10 +2,6 @@
 
 ## Projects
 
-### ai_interactive_evidence_mapper_Peter_A
-**Description**: This notebook searches multiple scholarly sources, ranks records using keyword and semantic methods, discovers topics with BERTopic, maps topic relationships, identifies potential gaps within the retrieved corpus, and exports a complete data dictionary.\
-**Project url**: https://github.com/peterald/ai_interactive_evidence_mapper_Peter_A/tree/ai_interactive_evidence_mapper_peteraldana \
-**Contributors**: [Peter Aldana](https://github.com/peterald) 
 
 ### Self-supervised deep learning for Structure-to-Function Prediction in Visual Cortex
 **Description**: Deep learning models for the construction of retinotopic maps from structural data have achieved promising results, but they still struggle at capturing fine-grained individual differences and generalising across datasets.
@@ -35,11 +31,6 @@ We aim for a fully functioning pipeline that can be further extended in future w
 **Description**: An open-source educational platform dedicated to improving data quality in fMRI and EEG research. Through accessible explanations, annotated examples of common artifacts, practical quality-assurance workflows, and carefully curated learning resources, the project helps students and researchers build the skills needed to recognize, evaluate, and address data-quality issues. By combining education with practical guidance, the website aims to make neuroimaging quality assurance more transparent, consistent, and approachable for the broader research community! \
 **Project URL**: [NeuroQA](https://github.com/henrfo/VisualQA) \
 **Contributors**: [Tien Yang](https://github.com/tti-yang) & [Morgan Barnes](https://github.com/morganbarnesga) & [Chenye Bao](https://github.com/Psycheyi) & [Henrik Formoe](https://github.com/henrfo) & [Tamaya Levy](https://github.com/tamayalevy) & [Merel van der Thiel](https://github.com/merelvdthiel) 
-
-### neurolabel
-**Description**: A python package for anatomical labeling, functional decoding, and interactive exploration of brain parcellations. Additional features include summarization of statistical brain maps using a parcellation. \
-**Project url**: https://github.com/amishavyas/neurolabel \
-**Contributors**: [Amisha Vyas](https://github.com/amishavyas), [Mia Casburn](https://github.com/miacasburn), [Hyesun Choi](https://github.com/hyesunchoi1101), [Anna Isberg](https://github.com/aeisberg), [Alex Litovchenko](https://github.com/alitovchenko), [Kaitlyn Mundy](https://github.com/mundy-k), [Rajikha Raja](https://github.com/rajikha), [Lara Ressin](https://github.com/LaraRessin), & [America Romero](https://github.com/romeroamerica)
 
 ### How to predict temporal discounting
 **Description**: Predict delay discounting (as measured by questionnaire) from gambling task functional connectivity OR brain structure (DWI) \
@@ -80,7 +71,18 @@ We aim for a fully functioning pipeline that can be further extended in future w
 **Project url**: [ForrestGump-NeuroHackademy](https://github.com/JoosenLi/ForrestGump-NeuroHackademy)\
 **Contributors:** [tamarj8592](https://github.com/tamarj8592), [juz031](https://github.com/juz031), [joosenli](https://github.com/joosenli), [Konstantinos14](https://github.com/Konstantinos14), [samtorrisi](https://github.com/samtorrisi), [rcastolayo](https://github.com/rcastolayo), and [snpushpi](https://github.com/snpushpi).
 
+### neurolabel
+**Description**: A python package for anatomical labeling, functional decoding, and interactive exploration of brain parcellations. Additional features include summarization of statistical brain maps using a parcellation. \
+**Project url**: https://github.com/amishavyas/neurolabel \
+**Contributors**: [Amisha Vyas](https://github.com/amishavyas), [Mia Casburn](https://github.com/miacasburn), [Hyesun Choi](https://github.com/hyesunchoi1101), [Anna Isberg](https://github.com/aeisberg), [Alex Litovchenko](https://github.com/alitovchenko), [Kaitlyn Mundy](https://github.com/mundy-k), [Rajikha Raja](https://github.com/rajikha), [Lara Ressin](https://github.com/LaraRessin), & [America Romero](https://github.com/romeroamerica)
+
 ### Aperiodic Signatures of Hormonal Contraceptive Use in Resting-State EEG
 **Description** Using features from resting state EEG (eyes open and closed) to predict contraceptive use (vs non use) \
 **Project URL** https://github.com/ekaplan7/menstrual-aperiodic \
 **Contributors**: [Liz Kaplan](https://github.com/ekaplan7/), Nicole Liddle, Aleyna Gross 
+
+### ai_interactive_evidence_mapper_Peter_A
+**Description**: This notebook searches multiple scholarly sources, ranks records using keyword and semantic methods, discovers topics with BERTopic, maps topic relationships, identifies potential gaps within the retrieved corpus, and exports a complete data dictionary.\
+**Project url**: https://github.com/peterald/ai_interactive_evidence_mapper_Peter_A/tree/ai_interactive_evidence_mapper_peteraldana \
+**Contributors**: [Peter Aldana](https://github.com/peterald) 
+
