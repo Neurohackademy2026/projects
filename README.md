@@ -70,3 +70,8 @@ We aim for a fully functioning pipeline that can be further extended in future w
 **Description**: Film \
 **Project url**: https://youtu.be/82dTs6mZ7XM \
 **Contributors**: [Henrik Formoe](https://github.com/henrfo), [Daniel Porta-Casteras](https://github.com/DCasteras), [Lara Ressin](https://github.com/LaraRessin), [Kelly Chang](https://github.com/kellychang4) & [John Pyles](https://github.com/jpyles)
+
+### Exploring Naturalistic Brain Responses with StudyForrest
+**Description**: This project explores the StudyForrest dataset, in which participants experience the *Forrest Gump* movie during fMRI. Our team develops preliminary brain encoding and decoding analyses that relate time-varying movie information—such as emotion, audiovisual content, and behavioural annotations—to brain responses. We use the dataset's shared naturalistic stimulus, anatomical derivatives, and multi-subject recordings to study both within-participant and cross-participant representations.\
+**Project url**: [ForrestGump-NeuroHackademy](https://github.com/JoosenLi/ForrestGump-NeuroHackademy)\
+**Contributors:** [tamarj8592](https://github.com/tamarj8592), [juz031](https://github.com/juz031), [joosenli](https://github.com/joosenli), [Konstantinos14](https://github.com/Konstantinos14), [samtorrisi](https://github.com/samtorrisi), [rcastolayo](https://github.com/rcastolayo), and [snpushpi](https://github.com/snpushpi).
