@@ -21,7 +21,6 @@ This project therefore aims at exploring the feasibility of this approach for re
 We aim for a fully functioning pipeline that can be further extended in future works.\
 
 **Project url**: https://github.com/Junebeomstics/surface-vision-transformers \
-
 **Contributors**: [Junbeom Kwon](https://github.com/Junebeomstics) & [Federico Giacardi](https://github.com/federicogiacardi01)  
 
 
@@ -55,6 +54,15 @@ We aim for a fully functioning pipeline that can be further extended in future w
 **Description**: Use psilocybin dataset to estimate brain state dynamics using HMMs, as well as attractor landscapes and key features to distinguish altered from normal states \
 **Project url**: [FunctionalAttractors](https://github.com/danielcbzn/neurohackademy_group-project) \
 **Contributors**: [Monica Vogel](https://github.com/monicajvogel), [Daniel Bazan](https://github.com/danielcbzn), [Yicheng Zheng](https://github.com/zheng1ch), [Donisha Smith](https://github.com/donishadsmith) & [Udbhav Singhal](https://github.com/udusp)
+
+### Predicting Magnetic Resonance Spectroscopy from Functional Connectivity
+**Description**: Brain function emerges from the interaction between local neurochemical signaling and large-scale network dynamics. While Magnetic Resonance Spectroscopy (MRS) quantifies the biochemical substrates of neuronal and glial function within specific brain regions, functional MRI reveals how these regions interact as distributed networks to support cognition and behavior. Combining MRS with functional connectivity therefore provides a powerful multiscale framework for understanding how regional excitatory-inhibitory balance, neuronal health, and metabolic processes shape the architecture and efficiency of functional brain networks. This integrated approach moves beyond describing brain activity to elucidating the neurochemical mechanisms underlying network organization and dysfunction.\
+This project therefore aims to explore the feasibility of this approach by:\
+1) Utilizing the HCP-aging dataset to build baseline regression models for MRS prediction.
+2) Using linear mixed models (LMM) and Generalized Estimating Equations (GEE) to test if longitudinal scans do better than baseline data.
+We aim for a fully functioning pipeline that can be further extended in future works.\
+**Project url**: github.com/prank24/neurohackademy_project_mrs_func \
+**Contributors**: [Siddharth Nayak](github.com/SiddharthNayak) & [Prankur Saxena](github.com/prank24) & [Maria Perica](github.com/maria-perica) & [Poorvi Balaji](github.com/poorvi-balaji) & [anca.e.p]
 
 ### Hyperface: Modelling the Dynamic Localizer Task
 **Description**: Analyze fMRI data from 21 participants, beginning with a first-level general linear model, followed by whole-brain and ROI-specific representational similarity analysis approaches, to compare neural representations of different stimuli types.
