@@ -51,4 +51,4 @@ We aim for a fully functioning pipeline that can be further extended in future w
 ### Whole-Brain Dynamical Modeling of Attractor Landscapes in Functional Brain Activity
 **Description**: Use psilocybin dataset to estimate brain state dynamics using HMMs, as well as attractor landscapes and key features to distinguish altered from normal states \
 **Project url**: [FunctionalAttractors](https://github.com/danielcbzn/neurohackademy_group-project) \
-**Contributors**: [Monica Vogel](https://github.com/monicajvogel), [Daniel Bazan](https://github.com/danielcbzn), [Yicheng Zheng](https://github.com/zheng1ch), [Donisha Smith] & [Yudi]
+**Contributors**: [Monica Vogel](https://github.com/monicajvogel), [Daniel Bazan](https://github.com/danielcbzn), [Yicheng Zheng](https://github.com/zheng1ch), [Donisha Smith](https://github.com/donishadsmith) & [Udbhav Singhal](https://github.com/udusp)
