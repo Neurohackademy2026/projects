@@ -11,6 +11,11 @@ INSTRUCTIONS: COPY THE EXAMPLE BELOW AND REPLACE ALL THE ITEMS BETWEEN TRIPLE-DA
 **Project url**: ---Your URL here ---\
 **Contributors**: [---Name 1---](---GitHub link 1---) & [---Name 1---](---GitHub link 1---)
 
+### --ai_interactive_evidence_mapper_Peter_A
+**Description**: ---This notebook searches multiple scholarly sources, ranks records using keyword and semantic methods, discovers topics with BERTopic, maps topic relationships, identifies potential gaps within the retrieved corpus, and exports a complete data dictionary. ---\
+**Project url**: ---(https://github.com/peterald/ai_interactive_evidence_mapper_Peter_A/tree/ai_interactive_evidence_mapper_peteraldana) ---\
+**Contributors**: Peter Aldana (---(https://github.com/peterald)---) 
+
 ### Self-supervised deep learning for Structure-to-Function Prediction in Visual Cortex
 **Description**: Deep learning models for the construction of retinotopic maps from structural data have achieved promising results, but they still struggle at capturing fine-grained individual differences and generalising across datasets.
 We hypothesise that these struggles can partially be attributed to the limited number of samples available to train these models in fully supervised models.
