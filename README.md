@@ -37,16 +37,19 @@ We aim for a fully functioning pipeline that can be further extended in future w
 **Contributors**: [Tong-Le Cai](https://github.com/tonglecai) & [Kareem Al-Khalil](https://github.com/kalkhalil-cmd) & [DT Nguyen](https://github.com/dawntnguyen) & [Sophia Martin](https://github.com/smartin347) & [Henrik Formoe](https://github.com/henrfo) & [Ziyuan Chen]()
 
 ### Neuroimaging Data Quality Assurance Open Resource
-**Description**: An open-source educational platform dedicated to improving data quality in fMRI and EEG research. Through accessible explanations, annotated examples of common artifacts, practical quality-assurance workflows, and carefully curated learning resources, the project helps students and researchers build the skills needed to recognize, evaluate, and address data-quality issues. By combining education with practical guidance, the website aims to make neuroimaging quality assurance more transparent, consistent, and approachable for the broader research community!
-
-**Project URL**: [NeuroQA](https://github.com/henrfo/VisualQA)
-
-**Contributors**: [Tien Yang](https://github.com/tti-yang) & [Morgan Barnes](https://github.com/morganbarnesga) & [Chenye Bao](https://github.com/Psycheyi) & [Henrik Formoe](https://github.com/henrfo) & [Tamaya Levy](https://github.com/tamayalevy)
+**Description**: An open-source educational platform dedicated to improving data quality in fMRI and EEG research. Through accessible explanations, annotated examples of common artifacts, practical quality-assurance workflows, and carefully curated learning resources, the project helps students and researchers build the skills needed to recognize, evaluate, and address data-quality issues. By combining education with practical guidance, the website aims to make neuroimaging quality assurance more transparent, consistent, and approachable for the broader research community! \
+**Project URL**: [NeuroQA](https://github.com/henrfo/VisualQA) \
+**Contributors**: [Tien Yang](https://github.com/tti-yang) & [Morgan Barnes](https://github.com/morganbarnesga) & [Chenye Bao](https://github.com/Psycheyi) & [Henrik Formoe](https://github.com/henrfo) & [Tamaya Levy](https://github.com/tamayalevy) \
 
 ### neurolabel
 **Description**: A python package for anatomical labeling, functional decoding, and interactive exploration of brain parcellations. Additional features include summarization of statistical brain maps using a parcellation. \
 **Project url**: https://github.com/amishavyas/neurolabel \
 **Contributors**: [Amisha Vyas](https://github.com/amishavyas), [Mia Casburn](https://github.com/miacasburn), [Hyesun Choi](https://github.com/hyesunchoi1101), [Anna Isberg](https://github.com/aeisberg), [Alex Litovchenko](https://github.com/alitovchenko), [Kaitlyn Mundy](https://github.com/mundy-k), [Rajikha Raja](https://github.com/rajikha), [Lara Ressin](https://github.com/LaraRessin), & [America Romero](https://github.com/romeroamerica)
+
+### nh26_td_gamb_diff_FC_best
+**Description**: Predict delay discounting (as measured by questionnaire) from gambling task functional connectivity OR brain structure (DWI) \
+**Project url**: https://github.com/pganon32/nh26_td_gamb_diff_FC_best \
+**Contributors**: [Jonas Granzow] https://github.com/BalkingTrain, [Caroline Raymond] https://github.com/cbr4zd, [Daniel Porta-Casteras] https://github.com/DCasteras, [Emily Wertheimer] https://github.com/Emily-Wertheimer, [Gracey Park] https://github.com/graceypark, [Hamid Hemmatr] https://github.com/Imaginglogic, [Jessica Tai] https://github.com/jessie-t8, [Pouneh Baniasad] https://github.com/pouneh-baniasad, [Patrick Gagnon] https://github.com/pganon32
 
 ### Whole-Brain Dynamical Modeling of Attractor Landscapes in Functional Brain Activity
 **Description**: Use psilocybin dataset to estimate brain state dynamics using HMMs, as well as attractor landscapes and key features to distinguish altered from normal states \
