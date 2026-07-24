@@ -44,6 +44,6 @@ We aim for a fully functioning pipeline that can be further extended in future w
 **Contributors**: [Tien Yang](https://github.com/tti-yang) & [Morgan Barnes](https://github.com/morganbarnesga) & [Chenye Bao](https://github.com/Psycheyi) & [Henrik Formoe](https://github.com/henrfo) & [Tamaya Levy](https://github.com/tamayalevy)
 
 ### neurolabel
-**Description**: A python package for anatomical labeling, functional decoding, and interactive exploration of brain parcellations. Additional features include summarization of statistical brain maps using a parcellation. 
-**Project url**: https://github.com/amishavyas/neurolabel
+**Description**: A python package for anatomical labeling, functional decoding, and interactive exploration of brain parcellations. Additional features include summarization of statistical brain maps using a parcellation. \
+**Project url**: https://github.com/amishavyas/neurolabel \
 **Contributors**: [Amisha Vyas](https://github.com/amishavyas), [Mia Casburn](https://github.com/miacasburn), [Hyesun Choi](https://github.com/hyesunchoi1101), [Anna Isberg](https://github.com/aeisberg), [Alex Litovchenko](https://github.com/alitovchenko), [Kaitlyn Mundy](https://github.com/mundy-k), [Rajikha Raja](https://github.com/rajikha), [Lara Ressin](https://github.com/LaraRessin), & [America Romero](https://github.com/romeroamerica)
