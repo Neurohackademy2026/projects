@@ -63,5 +63,5 @@ We aim for a fully functioning pipeline that can be further extended in future w
 
 ### Why Neuroscience
 **Description**: Film \
-**Project url**: ---Your URL here --- \
+**Project url**: https://youtu.be/82dTs6mZ7XM \
 **Contributors**: [Henrik Formoe](https://github.com/henrfo)
