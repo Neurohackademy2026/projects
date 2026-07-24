@@ -49,7 +49,7 @@ We aim for a fully functioning pipeline that can be further extended in future w
 ### nh26_td_gamb_diff_FC_best
 **Description**: Predict delay discounting (as measured by questionnaire) from gambling task functional connectivity OR brain structure (DWI) \
 **Project url**: https://github.com/pganon32/nh26_td_gamb_diff_FC_best \
-**Contributors**: [Jonas Granzow] https://github.com/BalkingTrain, [Caroline Raymond] https://github.com/cbr4zd, [Daniel Porta-Casteras] https://github.com/DCasteras, [Emily Wertheimer] https://github.com/Emily-Wertheimer, [Gracey Park] https://github.com/graceypark, [Hamid Hemmatr] https://github.com/Imaginglogic, [Jessica Tai] https://github.com/jessie-t8, [Pouneh Baniasad] https://github.com/pouneh-baniasad, [Patrick Gagnon] https://github.com/pganon32
+**Contributors**: [Jonas Granzow](https://github.com/BalkingTrain), [Caroline Raymond](https://github.com/cbr4zd), [Daniel Porta-Casteras](https://github.com/DCasteras), [Emily Wertheimer](https://github.com/Emily-Wertheimer), [Youngeun Park](https://github.com/graceypark), [Hamid Hemmatr](https://github.com/Imaginglogic), [Jessica Tai](https://github.com/jessie-t8), [Pouneh Baniasad](https://github.com/pouneh-baniasad), [Patrick Gagnon](https://github.com/pganon32)
 
 ### Whole-Brain Dynamical Modeling of Attractor Landscapes in Functional Brain Activity
 **Description**: Use psilocybin dataset to estimate brain state dynamics using HMMs, as well as attractor landscapes and key features to distinguish altered from normal states \
