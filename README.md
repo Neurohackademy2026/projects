@@ -69,4 +69,4 @@ We aim for a fully functioning pipeline that can be further extended in future w
 ### Why Neuroscience
 **Description**: Film \
 **Project url**: https://youtu.be/82dTs6mZ7XM \
-**Contributors**: [Henrik Formoe](https://github.com/henrfo), [Daniel Porta-Casteras](https://github.com/DCasteras), [Lara Ressin](https://github.com/LaraRessin), (Kelly Chang & John Pyles)
+**Contributors**: [Henrik Formoe](https://github.com/henrfo), [Daniel Porta-Casteras](https://github.com/DCasteras), [Lara Ressin](https://github.com/LaraRessin), [Kelly Chang](https://github.com/kellychang4) & [John Pyles](https://github.com/jpyles)
