@@ -46,7 +46,7 @@ We aim for a fully functioning pipeline that can be further extended in future w
 **Project url**: https://github.com/amishavyas/neurolabel \
 **Contributors**: [Amisha Vyas](https://github.com/amishavyas), [Mia Casburn](https://github.com/miacasburn), [Hyesun Choi](https://github.com/hyesunchoi1101), [Anna Isberg](https://github.com/aeisberg), [Alex Litovchenko](https://github.com/alitovchenko), [Kaitlyn Mundy](https://github.com/mundy-k), [Rajikha Raja](https://github.com/rajikha), [Lara Ressin](https://github.com/LaraRessin), & [America Romero](https://github.com/romeroamerica)
 
-### nh26_td_gamb_diff_FC_best
+### How to predict temporal discounting
 **Description**: Predict delay discounting (as measured by questionnaire) from gambling task functional connectivity OR brain structure (DWI) \
 **Project url**: https://github.com/pganon32/nh26_td_gamb_diff_FC_best \
 **Contributors**: [Jonas Granzow](https://github.com/BalkingTrain), [Caroline Raymond](https://github.com/cbr4zd), [Daniel Porta-Casteras](https://github.com/DCasteras), [Emily Wertheimer](https://github.com/Emily-Wertheimer), [Youngeun Park](https://github.com/graceypark), [Hamid Hemmatr](https://github.com/Imaginglogic), [Jessica Tai](https://github.com/jessie-t8), [Pouneh Baniasad](https://github.com/pouneh-baniasad), [Patrick Gagnon](https://github.com/pganon32)
