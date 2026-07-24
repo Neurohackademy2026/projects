@@ -64,5 +64,5 @@ This project therefore aims to explore the feasibility of this approach by
 2) Using linear mixed models (LMM) and Generalized Estimating Equations (GEE) to test if longitudinal scans do better than baseline data.
 We aim for a fully functioning pipeline that can be further extended in future works.\
 
-**Project url**: github.com/prank24/neurohackademy_project_mrs_func
+**Project url**: github.com/prank24/neurohackademy_project_mrs_func \
 **Contributors**: [Siddharth Nayak](github.com/SiddharthNayak) & [Prankur Saxena](github.com/prank24) & [Maria Perica](github.com/maria-perica) & [Poorvi Balaji](github.com/poorvi-balaji) & [anca.e.p]
