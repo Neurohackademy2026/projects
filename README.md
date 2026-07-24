@@ -39,7 +39,7 @@ We aim for a fully functioning pipeline that can be further extended in future w
 ### Neuroimaging Data Quality Assurance Open Resource
 **Description**: An open-source educational platform dedicated to improving data quality in fMRI and EEG research. Through accessible explanations, annotated examples of common artifacts, practical quality-assurance workflows, and carefully curated learning resources, the project helps students and researchers build the skills needed to recognize, evaluate, and address data-quality issues. By combining education with practical guidance, the website aims to make neuroimaging quality assurance more transparent, consistent, and approachable for the broader research community! \
 **Project URL**: [NeuroQA](https://github.com/henrfo/VisualQA) \
-**Contributors**: [Tien Yang](https://github.com/tti-yang) & [Morgan Barnes](https://github.com/morganbarnesga) & [Chenye Bao](https://github.com/Psycheyi) & [Henrik Formoe](https://github.com/henrfo) & [Tamaya Levy](https://github.com/tamayalevy) & [Merel van der Thiel](https://github.com/merelvdthiel)\
+**Contributors**: [Tien Yang](https://github.com/tti-yang) & [Morgan Barnes](https://github.com/morganbarnesga) & [Chenye Bao](https://github.com/Psycheyi) & [Henrik Formoe](https://github.com/henrfo) & [Tamaya Levy](https://github.com/tamayalevy) & [Merel van der Thiel](https://github.com/merelvdthiel) \
 
 ### neurolabel
 **Description**: A python package for anatomical labeling, functional decoding, and interactive exploration of brain parcellations. Additional features include summarization of statistical brain maps using a parcellation. \
