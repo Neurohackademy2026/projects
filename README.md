@@ -75,3 +75,14 @@ We aim for a fully functioning pipeline that can be further extended in future w
 **Description**: This project explores the StudyForrest dataset, in which participants experience the *Forrest Gump* movie during fMRI. Our team develops preliminary brain encoding and decoding analyses that relate time-varying movie information—such as emotion, audiovisual content, and behavioural annotations—to brain responses. We use the dataset's shared naturalistic stimulus, anatomical derivatives, and multi-subject recordings to study both within-participant and cross-participant representations.\
 **Project url**: [ForrestGump-NeuroHackademy](https://github.com/JoosenLi/ForrestGump-NeuroHackademy)\
 **Contributors:** [tamarj8592](https://github.com/tamarj8592), [juz031](https://github.com/juz031), [joosenli](https://github.com/joosenli), [Konstantinos14](https://github.com/Konstantinos14), [samtorrisi](https://github.com/samtorrisi), [rcastolayo](https://github.com/rcastolayo), and [snpushpi](https://github.com/snpushpi).
+
+### Predicting Magnetic Resonance Spectroscopy from Functional Connectivity
+**Description**: Brain function emerges from the interaction between local neurochemical signaling and large-scale network dynamics. While Magnetic Resonance Spectroscopy (MRS) quantifies the biochemical substrates of neuronal and glial function within specific brain regions, functional MRI reveals how these regions interact as distributed networks to support cognition and behavior. Combining MRS with functional connectivity therefore provides a powerful multiscale framework for understanding how regional excitatory-inhibitory balance, neuronal health, and metabolic processes shape the architecture and efficiency of functional brain networks. This integrated approach moves beyond describing brain activity to elucidating the neurochemical mechanisms underlying network organization and dysfunction.
+
+This project therefore aims to explore the feasibility of this approach by
+1) Utilizing the HCP-aging dataset to build baseline regression models for MRS prediction.
+2) Using linear mixed models (LMM) and Generalized Estimating Equations (GEE) to test if longitudinal scans do better than baseline data.
+We aim for a fully functioning pipeline that can be further extended in future works.\
+
+**Project url**: prank24/neurohackademy_project_mrs_func \
+**Contributors**: [Siddharth Nayak](https://github.com/SiddharthNayak) & [Prankur Saxena](https://github.com/prank24/neurohackademy_project_mrs_func) & [Maria Perica](https://github.com/maria-perica) & [Poorvi Balaji](https://github.com/poorvi-balaji) & [anca.e.p]
