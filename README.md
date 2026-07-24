@@ -26,10 +26,10 @@ We aim for a fully functioning pipeline that can be further extended in future w
 
 
 ### Perception vs. Imagery: An Exploratory Analysis with NSD-Imagery Data
-**Description**: Using RSA and brain encoding model to study the differences in brain responses during perception and imagery.  \
+**Description**: Using RSA and brain encoding model to study the differences in brain responses during perception and imagery. \
 **Project url**: https://github.com/mynanshan/NHprojectNSDimagery \
-**Contributors**: [mynanshan](https://github.com/mynanshan)
-<!-- & [Tamar Japaridze](tbd) & [Tong Le Cai](tbd) & [ap](tbd) -->
+**Contributors**: [Muye Nanshan](https://github.com/mynanshan)
+<!-- & [Tamar Japaridze](anonymous) & [Tong Le Cai](anonymous) & [ap](anonymous) -->
 
 ### Precision fMRI for Multivariate Analysis
 **Description**: Precision fMRI uses resting-state data to define individualized functional network. One of the benefits of individualized network definition is that it elegantly handles regions whose functional organizations have huge across-subject variability, region such as the Default Mode Network (DMN). The current project attempts to run multivariate analysis during task fMRI using template/group/individual network definition, and quantify the benefit of precision fMRI for the purpose of multivariate analysis. The current project uses PAN Dataset. \
